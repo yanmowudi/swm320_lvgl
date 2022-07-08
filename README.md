@@ -1,2 +1,2 @@
-# synwit_lvgl
-synwit lvgl
+# swm320_lvgl
+synwit swm320 lvgl
